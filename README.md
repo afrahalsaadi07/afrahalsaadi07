@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @afrahalsaadi07
 - 👀 I’m interested in Cybersecurity
 - 🌱 I’m currently learning SOC
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me alsaadiafrah20@gmail.com
 
 <!---
